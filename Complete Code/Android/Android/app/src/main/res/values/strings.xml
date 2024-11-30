@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LogMeal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="position">
+        <item> Select Your Position </item>
+        <item> Fitness Trainer </item>
+        <item> Nutritionist </item>
+        <item> Physical Therapist </item>
+        <item> Gym Assistant </item>
+        <item> Massage Therapist </item>
+    </string-array>
+
+    <string-array name="searchType">
+        <item> People </item>
+        <item> Service </item>
+    </string-array>
+
+    <string-array name="professions">
+        <item>Student</item>
+        <item>Doctor</item>
+        <item>Teacher</item>
+        <item>Engineer</item>
+        <item>Artist</item>
+        <item>Lawyer</item>
+        <item>Architect</item>
+        <item>Writer</item>
+        <item>Software Developer</item>
+        <item>Entrepreneur</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

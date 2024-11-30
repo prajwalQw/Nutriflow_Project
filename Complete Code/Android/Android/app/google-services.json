@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631799958726",
+    "project_id": "nutriflow-48394",
+    "storage_bucket": "nutriflow-48394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631799958726:android:3c8f0081b96c694b9a9bc7",
+        "android_client_info": {
+          "package_name": "com.example.nutriflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgyDCsYmJ9JWbvSE6soX5Em03QoQha-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
